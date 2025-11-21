@@ -5,12 +5,6 @@
          
 ---
 
-## AIM
-            
-**DATE:**  
-         
----
-
 ## AIM and obtain the frequency response of
 
 i)	First order Low Pass Filter (LPF)
@@ -19,13 +13,12 @@ iii)	Band pass filter
 
 ---
 
-** 6 A :- LOW PASS FILTER**
-
-
+## 6 A  LOW PASS FILTER
 
 ## THEORY
 ## LOW PASS FILTER
 A LPF allows frequencies from 0 to higher cut of frequency, fH. At fH the gain is 0.707 Amax, and after fH gain decreases at a constant rate with an increase in frequency. The gain decreases 20dB each time the frequency is increased by 10. Hence the rate at which the gain rolls off after fH is 20dB/decade or 6 dB/ octave, where octave signifies a two fold increase in frequency. The frequency f=fH is called the cut off frequency because the gain of the filter at this frequency is down by 3 dB from 0 Hz. Other equivalent terms for cut-off frequency are -3dB frequency, break frequency, or corner frequency.
+
 ## APPARATUS REQUIRED
 
 | S.No | Name of the Apparatus | Range | Quantity |
@@ -76,25 +69,14 @@ PROCEDURE - (LPF):
 
 ## TABULATION
 
-| S.No | Frequency (Hz) | Output Voltage (V) | Gain = 20 log (Vo/Vi) (dB) |
-|------|----------------|--------------------|-----------------------------|
-| 1    |                |                    |                             |
-| 2    |                |                    |                             |
-| 3    |                |                    |                             |
-| 4    |                |                    |                             |
-| 5    |                |                    |                             |
-| 6    |                |                    |                             |
-| 7    |                |                    |                             |
-| 8    |                |                    |                             |
-| 9    |                |                    |                             |
-| 10   |                |                    |                             |
-| 11   |                |                    |                             |
-| 12   |                |                    |                             |
-		
+![WhatsApp Image 2025-11-21 at 11 06 50_c9ef88ab](https://github.com/user-attachments/assets/5d0e533e-579b-48b2-8472-81c4b29e4bca)
+
 
 ---
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
+
+![WhatsApp Image 2025-11-21 at 11 06 42_2feb075e](https://github.com/user-attachments/assets/d5991487-7422-4f0a-900a-d508b84dcdd5)
 
 ---
 
@@ -103,6 +85,7 @@ PROCEDURE - (LPF):
 ---
 
 ## THEORY
+
 HIGH PASS FILTER
 A HPF allows frequencies from 0 to higher cut of frequency, fH. At fH the gain is 0.707 Amax, and after fH gain decreases at a constant rate with an increase in frequency. The gain decreases 20dB each time the frequency is increased by 10. Hence the rate at which the gain rolls off after fH is 20dB/decade or 6 dB/ octave, where octave signifies a two fold increase in frequency. The frequency f=fH is called the cut off frequency because the gain of the filter at this frequency is down by 3 dB from 0 Hz. Other equivalent terms for cut-off frequency are -3dB frequency, break frequency, or corner frequency.
 
@@ -159,25 +142,13 @@ PROCEDURE - ( HPF):
 
 ## TABULATION
 
-		
-| S.No | Frequency (Hz) | Output Voltage (V) | Gain = 20 log (Vo/Vi) (dB) |
-|------|----------------|--------------------|-----------------------------|
-| 1    |                |                    |                             |
-| 2    |                |                    |                             |
-| 3    |                |                    |                             |
-| 4    |                |                    |                             |
-| 5    |                |                    |                             |
-| 6    |                |                    |                             |
-| 7    |                |                    |                             |
-| 8    |                |                    |                             |
-| 9    |                |                    |                             |
-| 10   |                |                    |                             |
-| 11   |                |                    |                             |
-| 12   |                |                    |                             |
+![WhatsApp Image 2025-11-21 at 11 06 50_ab762523](https://github.com/user-attachments/assets/8eb5e17e-5d84-4677-bd27-8f9123dcc5e6)
 
 ---
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
+
+![WhatsApp Image 2025-11-21 at 11 06 49_6cac4e6f](https://github.com/user-attachments/assets/0f048914-7da3-46bb-89c8-a22aaa55f893)
 
 ---
 
@@ -186,6 +157,7 @@ PROCEDURE - ( HPF):
 ---
 
 ## THEORY
+
  ##Band Pass Filter
 A BPF allows frequencies in between lower cut of frequency and higher cut of frequency, fH-fL. A band-pass (BP) filter passes frequencies in a band fL_fH and attenuates below fL and above fH.. The gain decreases 20dB each time the frequency is increased by 10. Hence the rate at which the gain rolls off after fH is 20dB/decade or 6 dB/ octave, where octave signifies a two fold increase in frequency. The frequency f=fH is called the cut off frequency because the gain of the filter at this frequency is down by 3 dB from 0 Hz. Other equivalent terms for cut-off frequency are -3dB frequency, break frequency, or corner frequency.
 
@@ -244,30 +216,20 @@ PROCEDURE:BAND PASS FILTER
 
 ## TABULATION
 
-		
-| S.No | Frequency (Hz) | Output Voltage (V) | Gain = 20 log (Vo/Vi) (dB) |
-|------|----------------|--------------------|-----------------------------|
-| 1    |                |                    |                             |
-| 2    |                |                    |                             |
-| 3    |                |                    |                             |
-| 4    |                |                    |                             |
-| 5    |                |                    |                             |
-| 6    |                |                    |                             |
-| 7    |                |                    |                             |
-| 8    |                |                    |                             |
-| 9    |                |                    |                             |
-| 10   |                |                    |                             |
-| 11   |                |                    |                             |
-| 12   |                |                    |                             |
+![WhatsApp Image 2025-11-21 at 11 06 48_264a4874](https://github.com/user-attachments/assets/0fc1437b-0d41-4b3b-94e4-f49feb10da05)
+
 
 ---
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
+![WhatsApp Image 2025-11-21 at 11 06 46_bf0ab980](https://github.com/user-attachments/assets/6fa401cc-0422-4559-9371-c7df88d9b68d)
+
 ---
-##RESULT:
-	Thus an Active Low pass, High pass and Band Pass Filters are designed and
-tested using op-amp IC 741.
+## RESULT:
+
+Thus an Active Low pass, High pass and Band Pass Filters are designed and tested using op-amp IC 741.
+
 ---
 
    
